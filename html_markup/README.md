@@ -1,6 +1,5 @@
 #### `html_markup/README.md`
 
-```markdown
 # html_markup
 
 ## 개요
@@ -23,4 +22,4 @@
     ```
 
 3. 브라우저에서 `http://localhost:3000`을 열어 애플리케이션을 확인합니다.
-```
+
